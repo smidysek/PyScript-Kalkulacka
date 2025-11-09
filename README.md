@@ -1,9 +1,9 @@
-# A 🧮 Pokročilá PyScript Kalkulačka
+# 🧮 Pokročilá PyScript Kalkulačka
 
 Moderní webová kalkulačka postavená na PyScriptu, která kombinuje výkon Pythonu s jednoduchostí webového rozhraní.
 Kalkulačka běží přímo v prohlížeči – není potřeba žádná instalace Pythonu!
 
-## A 🚀 Funkce
+## 🚀 Funkce
 
 ✅ Základní operace
 
@@ -37,7 +37,7 @@ Možnost vložit zpět předchozí výraz nebo výsledek
 Všechny výpočty jsou zpracovávány pomocí ast – nelze provádět škodlivý kód
 Ošetření dělení nulou, neplatných znaků, více desetinných teček apod.
 
-## A 🖼️ Ukázka
+## 🖼️ Ukázka
 
 🧩 Struktura projektu
 pyscript-calculator/
@@ -62,7 +62,7 @@ Python 3.11+
 HTML5 + CSS3
 AST-based safe evaluator (bezpečné vyhodnocení výrazů)
 
-## A 💡 Autoři a licence
+## 💡 Autoři a licence
 
 Projekt vytvořen jako demonstrační příklad pro školní úlohu v rámci výuky Pythonu a PyScriptu.
 
